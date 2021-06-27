@@ -1,0 +1,15 @@
+v 2.0 (06/04/2020)
+- Added the ability to "collect all" science from the vessel the container is attached to by right clicking on the container.
+- Added "Collect All" to the action group abilities.
+
+
+v 1.0.3 (06/02/2020
+- Updated for KSP v 1.9.1
+
+
+v 1.0.2 (12/20/2018
+- Updated for KSP v1.6
+
+
+v 1.0 (12/03/2018)
+- Reconfigured folder structure and updated all cfg files for KSP v1.5.1
